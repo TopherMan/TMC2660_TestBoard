@@ -538,9 +538,9 @@ $EndComp
 NoConn ~ 2250 5000
 NoConn ~ 2250 5100
 Text GLabel 2100 5400 0    30   Input ~ 0
-X-DIR
+Z-DIR
 Text GLabel 2100 5500 0    30   Input ~ 0
-X-STEP
+Z-STEP
 $Comp
 L +12V #PWR010
 U 1 1 534048B5
@@ -570,9 +570,9 @@ MOSI
 Text GLabel 4600 5300 2    30   Input ~ 0
 SCK
 Text GLabel 4600 5100 2    30   Input ~ 0
-X-SEL
+Z-SEL
 Text GLabel 4600 5000 2    30   Input ~ 0
-X-EN
+Z-EN
 Wire Wire Line
 	1650 4800 2250 4800
 Wire Wire Line
@@ -951,9 +951,9 @@ $EndComp
 NoConn ~ 7700 1900
 NoConn ~ 7700 2000
 Text GLabel 7550 2300 0    30   Input ~ 0
-X-DIR
+Y-DIR
 Text GLabel 7550 2400 0    30   Input ~ 0
-X-STEP
+Y-STEP
 $Comp
 L +12V #PWR016
 U 1 1 5340499C
@@ -983,9 +983,9 @@ MOSI
 Text GLabel 10050 2200 2    30   Input ~ 0
 SCK
 Text GLabel 10050 2000 2    30   Input ~ 0
-X-SEL
+Y-SEL
 Text GLabel 10050 1900 2    30   Input ~ 0
-X-EN
+Y-EN
 Wire Wire Line
 	7100 1700 7700 1700
 Wire Wire Line
@@ -1364,9 +1364,9 @@ $EndComp
 NoConn ~ 7850 5000
 NoConn ~ 7850 5100
 Text GLabel 7700 5400 0    30   Input ~ 0
-X-DIR
+E-DIR
 Text GLabel 7700 5500 0    30   Input ~ 0
-X-STEP
+E-STEP
 $Comp
 L +12V #PWR022
 U 1 1 53404A83
@@ -1396,9 +1396,9 @@ MOSI
 Text GLabel 10200 5300 2    30   Input ~ 0
 SCK
 Text GLabel 10200 5100 2    30   Input ~ 0
-X-SEL
+E-SEL
 Text GLabel 10200 5000 2    30   Input ~ 0
-X-EN
+E-EN
 Wire Wire Line
 	7250 4800 7850 4800
 Wire Wire Line
