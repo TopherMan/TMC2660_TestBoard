@@ -434,29 +434,17 @@ F 3 "" H 800 2100 60  0000 C CNN
 	1    800  2100
 	-1   0    0    1   
 $EndComp
-Wire Wire Line
-	1150 2150 1350 2150
-Wire Wire Line
-	1350 2150 1350 3150
 Connection ~ 3000 3150
 Wire Wire Line
 	3500 3250 3500 3400
 Wire Wire Line
 	3500 3400 1150 3400
-Wire Wire Line
-	1150 3400 1150 2250
 Connection ~ 3500 3250
-Wire Wire Line
-	1150 2050 1350 2050
-Wire Wire Line
-	1350 2050 1350 1050
 Connection ~ 3000 1050
 Wire Wire Line
 	3550 800  3550 950 
 Wire Wire Line
 	3550 800  1150 800 
-Wire Wire Line
-	1150 800  1150 1950
 Connection ~ 3550 950 
 $Comp
 L TMC2660 U102
@@ -1772,11 +1760,11 @@ Text GLabel 5500 6750 0    30   Input ~ 0
 MISO
 Text GLabel 5500 6850 0    30   Input ~ 0
 SCK
-Text GLabel 5500 6250 0    30   Input ~ 0
+Text GLabel 5500 6450 0    30   Input ~ 0
 X-EN
 Text GLabel 5500 6350 0    30   Input ~ 0
 X-DIR
-Text GLabel 5500 6450 0    30   Input ~ 0
+Text GLabel 5500 6250 0    30   Input ~ 0
 X-STEP
 Text GLabel 5500 6550 0    30   Input ~ 0
 X-SEL
@@ -1881,4 +1869,16 @@ Wire Wire Line
 Wire Wire Line
 	5950 7500 5950 7550
 Connection ~ 5950 7500
+Wire Wire Line
+	1350 2150 1350 3150
+Wire Wire Line
+	1350 1050 1350 2050
+Wire Wire Line
+	1150 3400 1150 2250
+Wire Wire Line
+	1150 2150 1350 2150
+Wire Wire Line
+	1350 2050 1150 2050
+Wire Wire Line
+	1150 800  1150 1950
 $EndSCHEMATC

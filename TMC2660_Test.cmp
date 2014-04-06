@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Sat 05 Apr 2014 03:10:51 PM EDT
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Sat 05 Apr 2014 05:16:57 PM EDT
 
 BeginCmp
 TimeStamp = /53402B61;
@@ -172,14 +172,14 @@ BeginCmp
 TimeStamp = /5340445F;
 Reference = P101;
 ValeurCmp = CONN_4;
-IdModule  = bornier4;
+IdModule  = PIN_ARRAY_4x1;
 EndCmp
 
 BeginCmp
 TimeStamp = /5340495A;
 Reference = P102;
 ValeurCmp = CONN_4;
-IdModule  = bornier4;
+IdModule  = PIN_ARRAY_4x1;
 EndCmp
 
 BeginCmp
@@ -200,14 +200,14 @@ BeginCmp
 TimeStamp = /53404A41;
 Reference = P105;
 ValeurCmp = CONN_4;
-IdModule  = bornier4;
+IdModule  = PIN_ARRAY_4x1;
 EndCmp
 
 BeginCmp
 TimeStamp = /53404B28;
 Reference = P106;
 ValeurCmp = CONN_4;
-IdModule  = bornier4;
+IdModule  = PIN_ARRAY_4x1;
 EndCmp
 
 BeginCmp
