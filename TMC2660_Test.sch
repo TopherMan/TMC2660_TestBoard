@@ -1770,11 +1770,11 @@ Text GLabel 5500 6550 0    30   Input ~ 0
 X-SEL
 Text GLabel 5500 6950 0    30   Input ~ 0
 Y-EN
-Text GLabel 5500 7050 0    30   Input ~ 0
+Text GLabel 5500 7250 0    30   Input ~ 0
 Y-DIR
 Text GLabel 5500 7150 0    30   Input ~ 0
 Y-STEP
-Text GLabel 5500 7250 0    30   Input ~ 0
+Text GLabel 5500 7050 0    30   Input ~ 0
 Y-SEL
 Text GLabel 6400 6650 2    30   Input ~ 0
 MOSI

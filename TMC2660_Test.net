@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/chris/gitspace/TMC2660_Test/TMC2660_Test.sch)
-    (date "Sun 06 Apr 2014 12:57:00 PM EDT")
+    (date "Sun 06 Apr 2014 05:23:35 PM EDT")
     (tool "eeschema (2013-mar-13)-testing"))
   (components
     (comp (ref U101)
@@ -539,8 +539,8 @@
       (node (ref U103) (pin 42))
       (node (ref P104) (pin 21)))
     (net (code 22) (name Y-DIR)
-      (node (ref U103) (pin 41))
-      (node (ref P104) (pin 19)))
+      (node (ref P104) (pin 23))
+      (node (ref U103) (pin 41)))
     (net (code 23) (name "")
       (node (ref U103) (pin 8))
       (node (ref U103) (pin 7))
@@ -562,7 +562,7 @@
       (node (ref U103) (pin 38)))
     (net (code 28) (name Y-SEL)
       (node (ref U103) (pin 18))
-      (node (ref P104) (pin 23)))
+      (node (ref P104) (pin 19)))
     (net (code 29) (name "")
       (node (ref C115) (pin 2))
       (node (ref U103) (pin 36)))
