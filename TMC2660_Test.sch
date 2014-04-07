@@ -1784,17 +1784,17 @@ Text GLabel 6400 6850 2    30   Input ~ 0
 SCK
 Text GLabel 6400 6450 2    30   Input ~ 0
 Z-EN
-Text GLabel 6400 6350 2    30   Input ~ 0
-Z-DIR
 Text GLabel 6400 6250 2    30   Input ~ 0
+Z-DIR
+Text GLabel 6400 6350 2    30   Input ~ 0
 Z-STEP
 Text GLabel 6400 6550 2    30   Input ~ 0
 Z-SEL
 Text GLabel 6400 6950 2    30   Input ~ 0
 E-EN
-Text GLabel 6400 7250 2    30   Input ~ 0
-E-DIR
 Text GLabel 6400 7150 2    30   Input ~ 0
+E-DIR
+Text GLabel 6400 7250 2    30   Input ~ 0
 E-STEP
 Text GLabel 6400 7050 2    30   Input ~ 0
 E-SEL
