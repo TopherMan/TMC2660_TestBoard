@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Tue 08 Apr 2014 02:10:05 PM EDT
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Mon 05 May 2014 12:12:21 PM EDT
 
 BeginCmp
 TimeStamp = /53402B61;
@@ -270,28 +270,28 @@ BeginCmp
 TimeStamp = /53403362;
 Reference = R105;
 ValeurCmp = 100m;
-IdModule  = SM0805;
+IdModule  = SM2512;
 EndCmp
 
 BeginCmp
 TimeStamp = /53403371;
 Reference = R106;
 ValeurCmp = 100m;
-IdModule  = SM0805;
+IdModule  = SM2512;
 EndCmp
 
 BeginCmp
 TimeStamp = /5340491E;
 Reference = R107;
 ValeurCmp = 100m;
-IdModule  = SM0805;
+IdModule  = SM2512;
 EndCmp
 
 BeginCmp
 TimeStamp = /53404924;
 Reference = R108;
 ValeurCmp = 100m;
-IdModule  = SM0805;
+IdModule  = SM2512;
 EndCmp
 
 BeginCmp
@@ -326,28 +326,28 @@ BeginCmp
 TimeStamp = /53404A05;
 Reference = R113;
 ValeurCmp = 100m;
-IdModule  = SM0805;
+IdModule  = SM2512;
 EndCmp
 
 BeginCmp
 TimeStamp = /53404A0B;
 Reference = R114;
 ValeurCmp = 100m;
-IdModule  = SM0805;
+IdModule  = SM2512;
 EndCmp
 
 BeginCmp
 TimeStamp = /53404AEC;
 Reference = R115;
 ValeurCmp = 100m;
-IdModule  = SM0805;
+IdModule  = SM2512;
 EndCmp
 
 BeginCmp
 TimeStamp = /53404AF2;
 Reference = R116;
 ValeurCmp = 100m;
-IdModule  = SM0805;
+IdModule  = SM2512;
 EndCmp
 
 BeginCmp
