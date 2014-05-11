@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Thu 08 May 2014 04:19:45 PM EDT
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Sun 11 May 2014 04:59:09 PM EDT
 
 BeginCmp
 TimeStamp = /53402B61;
@@ -220,6 +220,62 @@ EndCmp
 BeginCmp
 TimeStamp = /5367C982;
 Reference = C132;
+ValeurCmp = 47u;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /536FE6BB;
+Reference = C133;
+ValeurCmp = 1u;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /536FE6C1;
+Reference = C134;
+ValeurCmp = 47u;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /536FE6C7;
+Reference = C135;
+ValeurCmp = 1u;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /536FE6CD;
+Reference = C136;
+ValeurCmp = 47u;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /536FE6A3;
+Reference = C137;
+ValeurCmp = 1u;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /536FE6A9;
+Reference = C138;
+ValeurCmp = 47u;
+IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /536FE6AF;
+Reference = C139;
+ValeurCmp = 1u;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /536FE6B5;
+Reference = C140;
 ValeurCmp = 47u;
 IdModule  = C1V5;
 EndCmp
