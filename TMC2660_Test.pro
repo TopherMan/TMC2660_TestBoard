@@ -1,11 +1,6 @@
-update=Sun 27 Apr 2014 09:52:13 AM EDT
+update=Fri 23 May 2014 03:06:18 PM EDT
 version=1
-last_client=kicad
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
+last_client=cvpcb
 [pcbnew]
 version=1
 LastNetListRead=
@@ -26,7 +21,6 @@ DrawSegmentWidth=0.200000000000
 BoardOutlineThickness=0.100000000000
 ModuleOutlineThickness=0.150000000000
 [pcbnew/libraries]
-LibDir=
 LibName1=sockets
 LibName2=connect
 LibName3=discret
@@ -35,14 +29,14 @@ LibName5=divers
 LibName6=smd_capacitors
 LibName7=smd_resistors
 LibName8=smd_crystal&oscillator
-LibName9=smd_dil
-LibName10=smd_transistors
-LibName11=libcms
-LibName12=display
-LibName13=led
-LibName14=dip_sockets
-LibName15=pga_sockets
-LibName16=valves
+LibName9=smd_transistors
+LibName10=libcms
+LibName11=display
+LibName12=led
+LibName13=dip_sockets
+LibName14=pga_sockets
+LibName15=valves
+LibDir=
 [eeschema]
 version=1
 LibDir=KiCAD_Libraries/library
@@ -85,3 +79,8 @@ LibName30=valves
 LibName31=trinamic
 [general]
 version=1
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
