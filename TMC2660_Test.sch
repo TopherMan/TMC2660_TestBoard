@@ -1760,19 +1760,19 @@ Text GLabel 5500 6750 0    30   Input ~ 0
 MISO
 Text GLabel 5500 6850 0    30   Input ~ 0
 SCK
-Text GLabel 5500 6450 0    30   Input ~ 0
-X-EN
-Text GLabel 5500 6350 0    30   Input ~ 0
-X-DIR
 Text GLabel 5500 6250 0    30   Input ~ 0
-X-STEP
+X-EN
+Text GLabel 5500 6450 0    30   Input ~ 0
+X-DIR
 Text GLabel 5500 6550 0    30   Input ~ 0
+X-STEP
+Text GLabel 5500 6350 0    30   Input ~ 0
 X-SEL
 Text GLabel 5500 6950 0    30   Input ~ 0
 Y-EN
-Text GLabel 5500 7250 0    30   Input ~ 0
-Y-DIR
 Text GLabel 5500 7150 0    30   Input ~ 0
+Y-DIR
+Text GLabel 5500 7250 0    30   Input ~ 0
 Y-STEP
 Text GLabel 5500 7050 0    30   Input ~ 0
 Y-SEL
@@ -1782,21 +1782,21 @@ Text GLabel 6400 6750 2    30   Input ~ 0
 MISO
 Text GLabel 6400 6850 2    30   Input ~ 0
 SCK
-Text GLabel 6400 6450 2    30   Input ~ 0
-Z-EN
-Text GLabel 6400 6250 2    30   Input ~ 0
-Z-DIR
-Text GLabel 6400 6350 2    30   Input ~ 0
-Z-STEP
 Text GLabel 6400 6550 2    30   Input ~ 0
+Z-EN
+Text GLabel 6400 6350 2    30   Input ~ 0
+Z-DIR
+Text GLabel 6400 6250 2    30   Input ~ 0
+Z-STEP
+Text GLabel 6400 6450 2    30   Input ~ 0
 Z-SEL
-Text GLabel 6400 6950 2    30   Input ~ 0
-E-EN
-Text GLabel 6400 7150 2    30   Input ~ 0
-E-DIR
 Text GLabel 6400 7250 2    30   Input ~ 0
-E-STEP
+E-EN
 Text GLabel 6400 7050 2    30   Input ~ 0
+E-DIR
+Text GLabel 6400 6950 2    30   Input ~ 0
+E-STEP
+Text GLabel 6400 7150 2    30   Input ~ 0
 E-SEL
 Wire Wire Line
 	5500 6250 5550 6250
