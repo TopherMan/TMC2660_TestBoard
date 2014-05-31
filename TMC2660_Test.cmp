@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Sun 11 May 2014 04:59:09 PM EDT
+Cmp-Mod V01 Created by CvPcb (2013-mar-13)-testing date = Fri 30 May 2014 09:12:21 PM EDT
 
 BeginCmp
 TimeStamp = /53402B61;
@@ -278,6 +278,13 @@ TimeStamp = /536FE6B5;
 Reference = C140;
 ValeurCmp = 47u;
 IdModule  = C1V5;
+EndCmp
+
+BeginCmp
+TimeStamp = /53892EB0;
+Reference = M101;
+ValeurCmp = LOGO_OSHW;
+IdModule  = oshw_logo_silkscreen-back_40mm;
 EndCmp
 
 BeginCmp

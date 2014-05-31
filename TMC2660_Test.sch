@@ -30,6 +30,7 @@ LIBS:atmel
 LIBS:contrib
 LIBS:valves
 LIBS:trinamic
+LIBS:oshw_logo
 LIBS:TMC2660_Test-cache
 EELAYER 24 0
 EELAYER END
@@ -2185,4 +2186,15 @@ F 3 "" H 6500 4900 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 6500 4700
+$Comp
+L LOGO_OSHW M101
+U 1 1 53892EB0
+P 3650 7150
+F 0 "M101" H 3650 7300 60  0000 C CNN
+F 1 "LOGO_OSHW" H 3650 7050 60  0000 C CNN
+F 2 "OSHW_logo_2" H 3550 7200 60  0000 C CNN
+F 3 "" H 3650 7150 60  0000 C CNN
+	1    3650 7150
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
